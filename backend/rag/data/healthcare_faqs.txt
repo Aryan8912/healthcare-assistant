@@ -1,0 +1,90 @@
+Healthcare FAQs - MedAssist Knowledge Base
+
+SECTION 1: APPOINTMENTS
+
+Q: How do I book an appointment?
+A: You can book an appointment by telling our AI assistant your name, phone number, preferred doctor or department, and your preferred date and time slot. The assistant will check availability and confirm your booking instantly.
+
+Q: How do I cancel an appointment?
+A: To cancel an appointment, provide your phone number or email and the appointment ID or date. Our assistant will locate your appointment and process the cancellation. Please try to cancel at least 24 hours in advance.
+
+Q: Can I reschedule my appointment?
+A: Yes, you can reschedule by providing your existing appointment details and your preferred new date and time. The assistant will check availability and update your appointment accordingly.
+
+Q: What are the available time slots?
+A: Appointments are available Monday through Saturday from 9:00 AM to 6:00 PM. Time slots are available every 30 minutes. Sunday slots are available from 10:00 AM to 2:00 PM for urgent cases.
+
+Q: How early should I arrive for my appointment?
+A: Please arrive 15 minutes before your scheduled appointment time for registration and paperwork. For first-time visits, arrive 20-25 minutes early.
+
+Q: What should I bring to my appointment?
+A: Please bring a valid photo ID, insurance card (if applicable), list of current medications, any previous medical records or test results relevant to your visit, and referral letter if required by your insurance.
+
+SECTION 2: DEPARTMENTS & SPECIALISTS
+
+Q: What departments are available?
+A: We offer the following departments: General Medicine, Cardiology, Orthopedics, Neurology, Pediatrics, Gynecology, Dermatology, Ophthalmology, ENT (Ear Nose Throat), and Psychiatry.
+
+Q: Which department should I visit for heart-related issues?
+A: For heart-related concerns such as chest pain, palpitations, shortness of breath, or high blood pressure, please visit our Cardiology department. Dr. Ananya Krishnan is our lead cardiologist with over 15 years of experience.
+
+Q: Which department handles children's health?
+A: Our Pediatrics department handles health concerns for children from birth through 18 years of age. We recommend pediatric consultations for vaccinations, growth monitoring, infections, and developmental concerns.
+
+Q: Which department should I visit for bone or joint pain?
+A: Visit our Orthopedics department for bone fractures, joint pain, back pain, sports injuries, and arthritis. Dr. Rajesh Gupta specializes in knee and hip replacements.
+
+Q: What does the Neurology department treat?
+A: The Neurology department treats conditions affecting the brain and nervous system, including migraines, epilepsy, stroke, Parkinson's disease, multiple sclerosis, and memory disorders. Dr. Meera Pillai is our chief neurologist.
+
+SECTION 3: GENERAL HEALTH INFORMATION
+
+Q: What are the symptoms of diabetes?
+A: Common symptoms of diabetes include frequent urination, excessive thirst, unexplained weight loss, fatigue, blurred vision, slow-healing wounds, and frequent infections. Type 2 diabetes may have no symptoms in early stages. Please consult General Medicine or Endocrinology for diagnosis.
+
+Q: What should I do in a medical emergency?
+A: In a medical emergency, call emergency services immediately (112 in India). Our emergency department is open 24/7. Do not drive yourself to the hospital during a heart attack or severe allergic reaction — call for an ambulance.
+
+Q: How often should I get a general health check-up?
+A: Adults under 40 should get a full health check-up every 2 years. Adults between 40-60 should get checked annually. Adults over 60 or those with chronic conditions should get checked every 6 months. Our General Medicine department offers comprehensive health packages.
+
+Q: What vaccinations are recommended for adults?
+A: Recommended adult vaccinations include influenza (annually), COVID-19 booster (as per guidelines), Tdap (tetanus, diphtheria, pertussis) every 10 years, hepatitis B if not previously vaccinated, and pneumococcal vaccines for adults over 65. Consult our General Medicine department for a personalised vaccination schedule.
+
+Q: What is hypertension and how is it managed?
+A: Hypertension (high blood pressure) is a reading consistently above 130/80 mmHg. Management includes lifestyle changes (low-sodium diet, regular exercise, limiting alcohol), stress management, and medication if prescribed. Regular monitoring is essential. Visit our Cardiology or General Medicine department for evaluation.
+
+SECTION 4: INSURANCE & BILLING
+
+Q: Do you accept health insurance?
+A: We accept most major health insurance plans. Please bring your insurance card to the appointment. Our billing team can verify your coverage before your visit. Cashless treatment is available for empanelled insurance providers.
+
+Q: What payment methods are accepted?
+A: We accept cash, all major credit/debit cards, UPI (Google Pay, PhonePe, Paytm), net banking, and insurance direct billing. EMI options are available for procedures above ₹25,000.
+
+Q: Can I get a cost estimate before my procedure?
+A: Yes, our billing department provides cost estimates for planned procedures. Contact us with the procedure name and your insurance details, and we will provide a detailed breakdown within 24 hours.
+
+SECTION 5: COVID-19 & INFECTION CONTROL
+
+Q: What COVID-19 precautions are in place?
+A: We maintain strict infection control protocols including hand sanitisation stations at all entry points, enhanced cleaning of all surfaces, HEPA air filtration in waiting areas, and segregated areas for patients with respiratory symptoms.
+
+Q: What should I do if I have COVID-19 symptoms before my appointment?
+A: If you experience fever, cough, shortness of breath, or loss of taste/smell before your appointment, please call us to reschedule or switch to a telemedicine consultation. Do not visit the clinic with active COVID-19 symptoms.
+
+SECTION 6: TELEMEDICINE
+
+Q: Do you offer online or telemedicine consultations?
+A: Yes, we offer telemedicine consultations for follow-up appointments, prescription renewals, minor ailments, and non-emergency consultations. Video consultations are available through our app. Book a telemedicine slot through our AI assistant.
+
+Q: How does a telemedicine consultation work?
+A: Book a telemedicine slot through our assistant. You will receive a secure video link via SMS and email 30 minutes before your appointment. Ensure good lighting, a quiet environment, and a stable internet connection for the best experience.
+
+SECTION 7: PHARMACY & PRESCRIPTIONS
+
+Q: Is there an in-house pharmacy?
+A: Yes, our in-house pharmacy is open Monday to Saturday from 8:00 AM to 8:00 PM and Sunday from 9:00 AM to 3:00 PM. We stock most commonly prescribed medications and can process insurance claims directly.
+
+Q: Can I get a prescription refill without an appointment?
+A: For chronic medications (blood pressure, diabetes, thyroid), prescription refills may be arranged via our telemedicine service or by sending a request through our app. New prescriptions always require a consultation.
